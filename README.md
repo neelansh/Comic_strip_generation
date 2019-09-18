@@ -10,4 +10,4 @@
 - Generative models:
   - [Microsoft AI](https://arxiv.org/pdf/1906.05596.pdf)
   - [Virtual Try On Synthesis](https://arxiv.org/pdf/1902.11026.pdf)
-- Extended Idea: Speech directed clothes' generation
+  - Extended Idea: Speech directed clothes' generation
