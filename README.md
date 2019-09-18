@@ -11,3 +11,6 @@
   - [Microsoft AI](https://arxiv.org/pdf/1906.05596.pdf)
   - [Virtual Try On Synthesis](https://arxiv.org/pdf/1902.11026.pdf)
   - Extended Idea: Speech directed clothes' generation
+  
+### Comic strip complete understanding / prediction:
+- [The Amazing Mysteries of the Gutter](http://openaccess.thecvf.com/content_cvpr_2017/papers/Iyyer_The_Amazing_Mysteries_CVPR_2017_paper.pdf)
