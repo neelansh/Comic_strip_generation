@@ -3,8 +3,8 @@
 ## Final Project Topic:
 ### Comic strip complete understanding / prediction:
 - Dataset : 
-  - (Source)[https://garfield.dale.ro/]
-  - (Drive Link)[https://drive.google.com/drive/u/1/folders/1iIO_95EfoLgF-INdgOniWzhDs3ENl3TD]
+  - [Source](https://garfield.dale.ro/)
+  - [Drive Link](https://drive.google.com/drive/u/1/folders/1iIO_95EfoLgF-INdgOniWzhDs3ENl3TD)
 - Links : 
 - Papers for reference: 
   - [LSTM Gan story visualization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.pdf)
