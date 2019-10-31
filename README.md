@@ -1,5 +1,15 @@
 # CSCI566-Project
 
+## Final Project Topic:
+### Comic strip complete understanding / prediction:
+- Dataset
+- Links
+- Papers for reference: 
+  - [LSTM Gan story visualization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.pdf)
+  - [Generate image using live desc](https://arxiv.org/pdf/1806.03027.pdf)
+
+
+
 ## Project proposals
 ### Lip reading (https://news.developer.nvidia.com/lip-reading-ai-more-accurate-than-humans/)
 
