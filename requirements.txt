@@ -1,0 +1,10 @@
+numpy
+torch
+ipython
+ipykernel
+pyqt5
+matplotlib
+glob3
+seaborn
+tqdm
+torchvision
